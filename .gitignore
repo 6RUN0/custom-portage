@@ -1,0 +1,6 @@
+*~
+*,v
+*.swp
+*.bak
+eclass/*
+metadata/*
